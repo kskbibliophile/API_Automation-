@@ -1,0 +1,22 @@
+{
+  "name": "api-automation",
+  "version": "1.0.0",
+  "description": "api automation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "test",
+    "cases",
+    "of",
+    "api"
+  ],
+  "author": "ksk bibliophile",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  }
+}
